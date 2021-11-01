@@ -1,0 +1,13 @@
+D:\Workspace\Learn-New-Language\JobVietApp\bin\Release\JobVietApp.exe.config
+D:\Workspace\Learn-New-Language\JobVietApp\bin\Release\JobVietApp.exe
+D:\Workspace\Learn-New-Language\JobVietApp\bin\Release\JobVietApp.pdb
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.csproj.AssemblyReference.cache
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.Account.resources
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.Activity.resources
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.Home.resources
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.Message.resources
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.Properties.Resources.resources
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.csproj.GenerateResource.cache
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.exe
+D:\Workspace\Learn-New-Language\JobVietApp\obj\Release\JobVietApp.pdb
