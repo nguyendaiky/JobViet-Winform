@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JobVietApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="lb_change_color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SpringGreen</Value>
+    </Setting>
+    <Setting Name="change_backcolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SpringGreen</Value>
+    </Setting>
+    <Setting Name="change_background_support" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MediumTurquoise</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
