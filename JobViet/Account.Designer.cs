@@ -409,7 +409,7 @@ namespace JobVietApp
             this.pic_avatar.BackColor = System.Drawing.Color.Transparent;
             this.pic_avatar.BackgroundImage = global::JobVietApp.Properties.Resources._99127089_1136004756766400_8261023067304624128_o1;
             this.pic_avatar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pic_avatar.Location = new System.Drawing.Point(131, 3);
+            this.pic_avatar.Location = new System.Drawing.Point(133, 3);
             this.pic_avatar.Name = "pic_avatar";
             this.pic_avatar.Size = new System.Drawing.Size(64, 64);
             this.pic_avatar.TabIndex = 0;
